@@ -73,7 +73,7 @@ The app uses the profanity filter to prevent any unwanted malicious words from b
 2. Add the `MONGO_URI` to the `.env` file.
 3. Install dependencies using `npm i`
 4. Run the program using `yarn dev`.
-5. The backend API link and port will have to be run on your local network using your IP. This has been hardcoded for the purpose of this hackathon. Your device may have a different one and require additional setup to run the mobile app.
+5. The backend API link and port must be run on your local network using your IP. This has been hardcoded for this hackathon. Your device may have a different one and require additional setup to run the mobile app.
 
 **Note: Both the backend API and mobile app will have to be run together.** 
 Contact [Arhaan Bahadur](https://arhaanb.com) for any more details.
