@@ -87,3 +87,5 @@ Contact [Arhaan Bahadur](https://arhaanb.com) for any more details.
 ```
 MONGO_URI=mongodb+srv://duckfuck:duckfuck420@cluster0.hubszf1.mongodb.net/
 ```
+
+Submitted as part of DevHaven Hackathon 2024
