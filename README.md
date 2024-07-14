@@ -82,10 +82,4 @@ Contact [Arhaan Bahadur](https://arhaanb.com) for any more details.
 - Team Name: **H1-218**
 - Members: **Arhaan Bahadur, Ishir Bhardwaj, Manit Kaushik, Prabal Minotra**
 
-### `env` file
-- backend
-```
-MONGO_URI=mongodb+srv://duckfuck:duckfuck420@cluster0.hubszf1.mongodb.net/
-```
-
 Submitted as part of DevHaven Hackathon 2024
